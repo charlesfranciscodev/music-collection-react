@@ -1,5 +1,7 @@
 # Music Collection Web App
 
+Your task is to create the web frontend of a music collection web app. You should use a frontend framework (React). The backend is already done for you (see API documentation below).
+
 ## Docker Commands
 
 Build the image(s):
